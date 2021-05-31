@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AashkaMohite
 - 👀 I’m interested in Data science and Machine Learing.
-- 🌱 I’m currently learning Machine learning.
+- 🌱 I’m currently learning Data Science.
 - 📫 To reach me: mail me at aashkamohite811@gmail.com or <br>
      check out my linkedin profile : linkedin.com/in/aashka-mohite-2165bb181
 
